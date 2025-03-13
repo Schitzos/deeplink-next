@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "3SQQR8B2PC.id.izi.activity.ios",
+        "paths": ["/", "/*"]
+      }
+    ]
+  }
+}
